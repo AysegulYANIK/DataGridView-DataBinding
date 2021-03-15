@@ -1,0 +1,18 @@
+C:\Users\AYSEGUL.YANIK\source\repos\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\source\repos\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.Properties.Resources.resources
+C:\Users\AYSEGUL.YANIK\source\repos\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.csproj.GenerateResource.cache
+C:\Users\AYSEGUL.YANIK\source\repos\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\DataGridView_Study\DataGridView_Study\bin\Debug\DataGridView_Study.exe.config
+C:\Users\AYSEGUL.YANIK\source\repos\DataGridView_Study\DataGridView_Study\bin\Debug\DataGridView_Study.exe
+C:\Users\AYSEGUL.YANIK\source\repos\DataGridView_Study\DataGridView_Study\bin\Debug\DataGridView_Study.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.exe
+C:\Users\AYSEGUL.YANIK\source\repos\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.pdb
+D:\Visual Studio Projelerim\laptoptaki projeler\DataGridView_Study\DataGridView_Study\bin\Debug\DataGridView_Study.exe.config
+D:\Visual Studio Projelerim\laptoptaki projeler\DataGridView_Study\DataGridView_Study\bin\Debug\DataGridView_Study.exe
+D:\Visual Studio Projelerim\laptoptaki projeler\DataGridView_Study\DataGridView_Study\bin\Debug\DataGridView_Study.pdb
+D:\Visual Studio Projelerim\laptoptaki projeler\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.csprojAssemblyReference.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.Properties.Resources.resources
+D:\Visual Studio Projelerim\laptoptaki projeler\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.csproj.GenerateResource.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.exe
+D:\Visual Studio Projelerim\laptoptaki projeler\DataGridView_Study\DataGridView_Study\obj\Debug\DataGridView_Study.pdb
