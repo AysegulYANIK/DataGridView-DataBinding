@@ -1,0 +1,18 @@
+C:\Users\AYSEGUL.YANIK\source\repos\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\source\repos\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.Properties.Resources.resources
+C:\Users\AYSEGUL.YANIK\source\repos\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.csproj.GenerateResource.cache
+C:\Users\AYSEGUL.YANIK\source\repos\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\bin\Debug\BindtoDataGridView_Doodle.exe.config
+C:\Users\AYSEGUL.YANIK\source\repos\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\bin\Debug\BindtoDataGridView_Doodle.exe
+C:\Users\AYSEGUL.YANIK\source\repos\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\bin\Debug\BindtoDataGridView_Doodle.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.exe
+C:\Users\AYSEGUL.YANIK\source\repos\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.pdb
+D:\Visual Studio Projelerim\laptoptaki projeler\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\bin\Debug\BindtoDataGridView_Doodle.exe.config
+D:\Visual Studio Projelerim\laptoptaki projeler\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\bin\Debug\BindtoDataGridView_Doodle.exe
+D:\Visual Studio Projelerim\laptoptaki projeler\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\bin\Debug\BindtoDataGridView_Doodle.pdb
+D:\Visual Studio Projelerim\laptoptaki projeler\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.csprojAssemblyReference.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.Properties.Resources.resources
+D:\Visual Studio Projelerim\laptoptaki projeler\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.csproj.GenerateResource.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projelerim\laptoptaki projeler\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.exe
+D:\Visual Studio Projelerim\laptoptaki projeler\BindtoDataGridView_Doodle\BindtoDataGridView_Doodle\obj\Debug\BindtoDataGridView_Doodle.pdb
